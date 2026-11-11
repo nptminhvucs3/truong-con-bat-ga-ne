@@ -1,0 +1,267 @@
+{
+  "frames": [
+    {
+      "filename": "frame_000.png",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_001.png",
+      "frame": {
+        "x": 256,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_002.png",
+      "frame": {
+        "x": 512,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_003.png",
+      "frame": {
+        "x": 768,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_004.png",
+      "frame": {
+        "x": 1024,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_005.png",
+      "frame": {
+        "x": 0,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_006.png",
+      "frame": {
+        "x": 256,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_007.png",
+      "frame": {
+        "x": 512,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_008.png",
+      "frame": {
+        "x": 768,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_009.png",
+      "frame": {
+        "x": 1024,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_010.png",
+      "frame": {
+        "x": 0,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_011.png",
+      "frame": {
+        "x": 256,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_012.png",
+      "frame": {
+        "x": 512,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_013.png",
+      "frame": {
+        "x": 768,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_014.png",
+      "frame": {
+        "x": 1024,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_015.png",
+      "frame": {
+        "x": 0,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_016.png",
+      "frame": {
+        "x": 256,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_017.png",
+      "frame": {
+        "x": 512,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_018.png",
+      "frame": {
+        "x": 768,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_019.png",
+      "frame": {
+        "x": 1024,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_020.png",
+      "frame": {
+        "x": 0,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_021.png",
+      "frame": {
+        "x": 256,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_022.png",
+      "frame": {
+        "x": 512,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_023.png",
+      "frame": {
+        "x": 768,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    },
+    {
+      "filename": "frame_024.png",
+      "frame": {
+        "x": 1024,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      "durationMs": 81.66667999999999
+    }
+  ],
+  "meta": {
+    "app": "Spritix",
+    "version": 1,
+    "action": "run",
+    "image": "Trường-Con-run-v1.png",
+    "size": {
+      "w": 1280,
+      "h": 1280
+    },
+    "frameWidth": 256,
+    "frameHeight": 256,
+    "fps": 12.245
+  }
+}
